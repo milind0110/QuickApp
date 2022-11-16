@@ -1,4 +1,3 @@
-// const { io } = require("socket.io-client");
 const socket = io();
 
 const form = document.getElementById("send-container");
